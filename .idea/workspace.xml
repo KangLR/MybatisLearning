@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f24ccd4e-d311-4836-b071-ae555d140d1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YkXs4Kw9sUZ4GUwG1BW1ogrlxg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-01/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IDEA\mybatis\mybatis-01\src\main\resources" />
+      <recent name="C:\IDEA\mybatis\mybatis-01\target\test-classes\com\kang\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserDaoTest">
+    <configuration name="UserDaoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest" />
+        <item itemvalue="JUnit.UserDaoTest.test" />
+        <item itemvalue="JUnit.UserDaoTest.test (1)" />
+        <item itemvalue="JUnit.UserDaoTest (1)" />
+        <item itemvalue="JUnit.UserDaoTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@357d0b76" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f24ccd4e-d311-4836-b071-ae555d140d1c" name="Default Changelist" comment="" />
+      <created>1583487769082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583487769082</updated>
+      <workItem from="1583487772283" duration="14720000" />
+      <workItem from="1583568041563" duration="4654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="166" key="#SQL_Dialects" timestamp="1583568735855">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="618" y="166" key="#SQL_Dialects/0.0.1504.963@0.0.1504.963" timestamp="1583568735855" />
+    <state x="340" y="154" key="#UserDaoTest.test" timestamp="1583565180688">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="340" y="154" key="#UserDaoTest.test/0.0.1504.963@0.0.1504.963" timestamp="1583565180688" />
+    <state x="340" y="154" key="#UserDaoTest.test_(1)" timestamp="1583565169759">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="340" y="154" key="#UserDaoTest.test_(1)/0.0.1504.963@0.0.1504.963" timestamp="1583565169759" />
+    <state x="340" y="169" key="#UserDaoTest_(1)" timestamp="1583565140704">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="340" y="169" key="#UserDaoTest_(1)/0.0.1504.963@0.0.1504.963" timestamp="1583565140704" />
+    <state x="345" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583569169948">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="345" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1583569169948" />
+    <state x="879" y="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583558917290">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="879" y="421" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1583558917290" />
+    <state x="763" y="376" key="#com.intellij.ide.util.MemberChooser" timestamp="1583569978455">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="763" y="376" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1583569978455" />
+    <state width="1100" height="246" key="GridCell.Tab.0.bottom" timestamp="1583572898429">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1100" height="246" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1583572898429" />
+    <state width="1100" height="246" key="GridCell.Tab.0.center" timestamp="1583572898429">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1100" height="246" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1583572898429" />
+    <state width="1100" height="246" key="GridCell.Tab.0.left" timestamp="1583572898428">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1100" height="246" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1583572898428" />
+    <state width="1100" height="246" key="GridCell.Tab.0.right" timestamp="1583572898429">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1100" height="246" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1583572898429" />
+    <state x="227" y="219" key="SettingsEditor" timestamp="1583567889762">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="227" y="219" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1583567889762" />
+    <state x="629" y="234" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1583493082773">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="629" y="234" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1504.963@0.0.1504.963" timestamp="1583493082773" />
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1583568050565">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1583568050565" />
+    <state x="140" y="186" key="new project wizard" timestamp="1583488250996">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="140" y="186" key="new project wizard/0.0.1504.963@0.0.1504.963" timestamp="1583488250996" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis-01/target/test-classes/com/kang/dao/UserDaoTest.class</url>
+          <line>19</line>
+          <properties class="com.kang.dao.UserDaoTest" method="test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
