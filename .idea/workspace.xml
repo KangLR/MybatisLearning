@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f24ccd4e-d311-4836-b071-ae555d140d1c" name="Default Changelist" comment="" />
+    <list default="true" id="f24ccd4e-d311-4836-b071-ae555d140d1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/src/main/java/com/kang/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-01/src/main/java/com/kang/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/src/main/java/com/kang/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-01/src/main/java/com/kang/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/src/test/java/com/kang/dao/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-01/src/test/java/com/kang/dao/UserMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/kang/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/kang/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-01/target/classes/com/kang/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/kang/dao/UserDaoTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +61,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -66,6 +77,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YkXs4Kw9sUZ4GUwG1BW1ogrlxg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -84,44 +96,7 @@
       <recent name="C:\IDEA\mybatis\mybatis-01\target\test-classes\com\kang\dao" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserDaoTest">
-    <configuration name="UserDaoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-01" />
-      <option name="PACKAGE_NAME" value="com.kang.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserDaoTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-01" />
-      <option name="PACKAGE_NAME" value="com.kang.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-01" />
-      <option name="PACKAGE_NAME" value="com.kang.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserDaoTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UserMapperTest.getAllUser">
     <configuration name="UserDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true">
       <useClassPathOnly />
       <option name="PACKAGE_NAME" value="com.kang.dao" />
@@ -133,13 +108,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.addUserByMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="addUserByMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.deleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.getAllUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="getAllUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.getUserByMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="getUserByMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.kang.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserDaoTest" />
-        <item itemvalue="JUnit.UserDaoTest.test" />
-        <item itemvalue="JUnit.UserDaoTest.test (1)" />
-        <item itemvalue="JUnit.UserDaoTest (1)" />
-        <item itemvalue="JUnit.UserDaoTest.test" />
+        <item itemvalue="JUnit.UserMapperTest.getAllUser" />
+        <item itemvalue="JUnit.UserMapperTest.getUserByMap" />
+        <item itemvalue="JUnit.UserMapperTest.addUserByMap" />
+        <item itemvalue="JUnit.UserMapperTest.test" />
+        <item itemvalue="JUnit.UserMapperTest.deleteUser" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583487769082</updated>
       <workItem from="1583487772283" duration="14720000" />
-      <workItem from="1583568041563" duration="4654000" />
+      <workItem from="1583568041563" duration="12524000" />
     </task>
     <servers />
   </component>
@@ -209,22 +253,26 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="763" y="376" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1583569978455" />
-    <state width="1100" height="246" key="GridCell.Tab.0.bottom" timestamp="1583572898429">
+    <state x="209" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583648596534">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1100" height="246" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1583572898429" />
-    <state width="1100" height="246" key="GridCell.Tab.0.center" timestamp="1583572898429">
+    <state x="209" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1504.963@0.0.1504.963" timestamp="1583648596534" />
+    <state width="1100" height="281" key="GridCell.Tab.0.bottom" timestamp="1583655890388">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1100" height="246" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1583572898429" />
-    <state width="1100" height="246" key="GridCell.Tab.0.left" timestamp="1583572898428">
+    <state width="1100" height="281" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1583655890388" />
+    <state width="1100" height="281" key="GridCell.Tab.0.center" timestamp="1583655890387">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1100" height="246" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1583572898428" />
-    <state width="1100" height="246" key="GridCell.Tab.0.right" timestamp="1583572898429">
+    <state width="1100" height="281" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1583655890387" />
+    <state width="1100" height="281" key="GridCell.Tab.0.left" timestamp="1583655890386">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1100" height="246" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1583572898429" />
+    <state width="1100" height="281" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1583655890386" />
+    <state width="1100" height="281" key="GridCell.Tab.0.right" timestamp="1583655890387">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1100" height="281" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1583655890387" />
     <state x="227" y="219" key="SettingsEditor" timestamp="1583567889762">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -241,19 +289,5 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="140" y="186" key="new project wizard/0.0.1504.963@0.0.1504.963" timestamp="1583488250996" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/mybatis-01/target/test-classes/com/kang/dao/UserDaoTest.class</url>
-          <line>19</line>
-          <properties class="com.kang.dao.UserDaoTest" method="test">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
