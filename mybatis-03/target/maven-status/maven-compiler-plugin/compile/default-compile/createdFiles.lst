@@ -1,0 +1,3 @@
+com\kang\utils\MybatisUtils.class
+com\kang\dao\UserMapper.class
+com\kang\pojo\User.class
