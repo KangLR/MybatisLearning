@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c2d1f70-e731-49bf-8862-b733a9bf64ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mybatis-04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/utils/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/test/java/com/kang/dao/UserMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d056fe73-9275-4294-b111-0b145cf11552.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d056fe73-9275-4294-b111-0b145cf11552.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-04/src/com/hp/log/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/com/hp/log/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-04/target/test-classes/com/kang/dao/UserMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/target/test-classes/com/kang/dao/UserMapperTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +101,7 @@
       <recent name="C:\IDEA\mybatis\mybatis-02\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserMapperTest.testLog4j">
+  <component name="RunManager" selected="JUnit.UserMapperTest.getUserById (1)">
     <configuration name="UserMapperTest.getAllUser (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-03" />
       <option name="PACKAGE_NAME" value="com.kang.dao" />
@@ -174,8 +161,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserMapperTest.testLog4j" />
         <item itemvalue="JUnit.UserMapperTest.getUserById (1)" />
+        <item itemvalue="JUnit.UserMapperTest.testLog4j" />
         <item itemvalue="JUnit.UserMapperTest.getAllUser (2)" />
         <item itemvalue="JUnit.UserMapperTest.getAllUser (1)" />
         <item itemvalue="JUnit.UserMapperTest.getUserById" />
@@ -214,6 +201,7 @@
       <workItem from="1583487772283" duration="14720000" />
       <workItem from="1583568041563" duration="12524000" />
       <workItem from="1584281690092" duration="4472000" />
+      <workItem from="1584288612131" duration="256000" />
     </task>
     <servers />
   </component>
@@ -301,10 +289,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="629" y="234" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1504.963@0.0.1504.963" timestamp="1583493082773" />
-    <state x="449" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1584281693452">
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1584288636201">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="449" y="310" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1584281693452" />
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1584288636201" />
     <state x="140" y="186" key="new project wizard" timestamp="1584282467363">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
