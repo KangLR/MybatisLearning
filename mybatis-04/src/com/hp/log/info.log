@@ -1,0 +1,4 @@
+2020-03-15 23:50:14 下午 [Thread: main][ Class:com.kang.dao.UserMapperTest >> Method: com.kang.dao.UserMapperTest.testLog4j(UserMapperTest.java:56) ]
+INFO:info:进入了testLog4j
+2020-03-15 23:50:14 下午 [Thread: main][ Class:com.kang.dao.UserMapperTest >> Method: com.kang.dao.UserMapperTest.testLog4j(UserMapperTest.java:58) ]
+ERROR:error:进入了testLog4j
