@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c2d1f70-e731-49bf-8862-b733a9bf64ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mybatis-03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-03/src/main/java/com/kang/dao/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-03/src/main/java/com/kang/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-03/src/main/java/com/kang/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-03/src/main/java/com/kang/utils/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-03/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-03/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-03/src/test/java/com/kang/dao/UserMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/classes/com/kang/dao/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/classes/com/kang/dao/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/classes/com/kang/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/classes/com/kang/utils/MybatisUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/surefire-reports/TEST-com.kang.dao.UserMapperTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/surefire-reports/com.kang.dao.UserMapperTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-02/target/test-classes/com/kang/dao/UserMapperTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c2d1f70-e731-49bf-8862-b733a9bf64ca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
