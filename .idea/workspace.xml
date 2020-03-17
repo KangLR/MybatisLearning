@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c2d1f70-e731-49bf-8862-b733a9bf64ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mybatis-05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/dao/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/dao/TeacherMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/pojo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/pojo/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/utils/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/com/kang/dao/StudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/com/kang/dao/TeacherMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/test/java/com/kang/dao/UserMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d056fe73-9275-4294-b111-0b145cf11552.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d056fe73-9275-4294-b111-0b145cf11552.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-04/src/com/hp/log/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/com/hp/log/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-04/src/test/java/com/kang/dao/UserMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/test/java/com/kang/dao/UserMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-04/target/test-classes/com/kang/dao/UserMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/target/test-classes/com/kang/dao/UserMapperTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c2d1f70-e731-49bf-8862-b733a9bf64ca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +213,7 @@
       <workItem from="1584281690092" duration="4472000" />
       <workItem from="1584288612131" duration="256000" />
       <workItem from="1584329195180" duration="24389000" />
-      <workItem from="1584427771710" duration="7695000" />
+      <workItem from="1584427771710" duration="8320000" />
     </task>
     <servers />
   </component>
@@ -294,22 +269,22 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="806" y="262" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1584282162659" />
-    <state width="1162" height="243" key="GridCell.Tab.0.bottom" timestamp="1584436534787">
+    <state width="1162" height="243" key="GridCell.Tab.0.bottom" timestamp="1584456324040">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1162" height="243" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1584436534787" />
-    <state width="1162" height="243" key="GridCell.Tab.0.center" timestamp="1584436534786">
+    <state width="1162" height="243" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1584456324040" />
+    <state width="1162" height="243" key="GridCell.Tab.0.center" timestamp="1584456324039">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1162" height="243" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1584436534786" />
-    <state width="1162" height="243" key="GridCell.Tab.0.left" timestamp="1584436534786">
+    <state width="1162" height="243" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1584456324039" />
+    <state width="1162" height="243" key="GridCell.Tab.0.left" timestamp="1584456324039">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1162" height="243" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1584436534786" />
-    <state width="1162" height="243" key="GridCell.Tab.0.right" timestamp="1584436534786">
+    <state width="1162" height="243" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1584456324039" />
+    <state width="1162" height="243" key="GridCell.Tab.0.right" timestamp="1584456324040">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1162" height="243" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1584436534786" />
+    <state width="1162" height="243" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1584456324040" />
     <state width="1076" height="325" key="GridCell.Tab.1.bottom" timestamp="1584425332256">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
