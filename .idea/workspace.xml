@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c2d1f70-e731-49bf-8862-b733a9bf64ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mybatis-05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/dao/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/dao/TeacherMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/pojo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/kang/utils/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/com/kang/dao/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/com/kang/dao/TeacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/test/java/com/kang/dao/UserMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d056fe73-9275-4294-b111-0b145cf11552.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d056fe73-9275-4294-b111-0b145cf11552.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mybatis-04/src/com/hp/log/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/com/hp/log/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/kang/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-04/src/test/java/com/kang/dao/UserMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/src/test/java/com/kang/dao/UserMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/target/classes/com/kang/dao/UserMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mybatis-04/target/test-classes/com/kang/dao/UserMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-04/target/test-classes/com/kang/dao/UserMapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +64,20 @@
         <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="student: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="teacher: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
         <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
     </expand>
@@ -51,9 +86,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -83,36 +118,36 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-04/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-05/src/main/resources/com/kang/dao" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kang.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IDEA\mybatis\mybatis-05\src\main\resources\com\kang\dao" />
+      <recent name="C:\IDEA\mybatis\mybatis-05\src\main\java\com\kang" />
+      <recent name="C:\IDEA\mybatis\mybatis-05\src\main\resources" />
       <recent name="C:\IDEA\mybatis\mybatis-04\src\main\resources" />
       <recent name="C:\IDEA\mybatis\mybatis-04\src\main\java\com\kang" />
-      <recent name="C:\IDEA\mybatis\mybatis-03\src\main\resources" />
-      <recent name="C:\IDEA\mybatis\mybatis-03\src\main\java\com\kang" />
-      <recent name="C:\IDEA\mybatis\mybatis-02\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserMapperTest.getUserById (1)">
-    <configuration name="UserMapperTest.getAllUser (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-03" />
+  <component name="RunManager" selected="JUnit.UserMapperTest.getStudent1">
+    <configuration name="UserMapperTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-05" />
       <option name="PACKAGE_NAME" value="com.kang.dao" />
       <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
-      <option name="METHOD_NAME" value="getAllUser" />
+      <option name="METHOD_NAME" value="get" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.getAllUser (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserMapperTest.getAllUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-04" />
       <option name="PACKAGE_NAME" value="com.kang.dao" />
       <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
@@ -122,50 +157,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.getUserById (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-04" />
+    <configuration name="UserMapperTest.getStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-05" />
       <option name="PACKAGE_NAME" value="com.kang.dao" />
       <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
-      <option name="METHOD_NAME" value="getUserById" />
+      <option name="METHOD_NAME" value="getStudent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.getUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-03" />
+    <configuration name="UserMapperTest.getStudent1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-05" />
       <option name="PACKAGE_NAME" value="com.kang.dao" />
       <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
-      <option name="METHOD_NAME" value="getUserById" />
+      <option name="METHOD_NAME" value="getStudent1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.testLog4j" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-04" />
+    <configuration name="UserMapperTest.getTeacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-05" />
       <option name="PACKAGE_NAME" value="com.kang.dao" />
       <option name="MAIN_CLASS_NAME" value="com.kang.dao.UserMapperTest" />
-      <option name="METHOD_NAME" value="testLog4j" />
+      <option name="METHOD_NAME" value="getTeacher" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserMapperTest.getAllUser (1)" />
-      <item itemvalue="JUnit.UserMapperTest.getUserById" />
-      <item itemvalue="JUnit.UserMapperTest.getAllUser (2)" />
-      <item itemvalue="JUnit.UserMapperTest.getUserById (1)" />
-      <item itemvalue="JUnit.UserMapperTest.testLog4j" />
+      <item itemvalue="JUnit.UserMapperTest.getAllUser" />
+      <item itemvalue="JUnit.UserMapperTest.get" />
+      <item itemvalue="JUnit.UserMapperTest.getTeacher" />
+      <item itemvalue="JUnit.UserMapperTest.getStudent" />
+      <item itemvalue="JUnit.UserMapperTest.getStudent1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserMapperTest.getUserById (1)" />
-        <item itemvalue="JUnit.UserMapperTest.testLog4j" />
-        <item itemvalue="JUnit.UserMapperTest.getAllUser (2)" />
-        <item itemvalue="JUnit.UserMapperTest.getAllUser (1)" />
-        <item itemvalue="JUnit.UserMapperTest.getUserById" />
+        <item itemvalue="JUnit.UserMapperTest.getStudent1" />
+        <item itemvalue="JUnit.UserMapperTest.getStudent" />
+        <item itemvalue="JUnit.UserMapperTest.getTeacher" />
+        <item itemvalue="JUnit.UserMapperTest.get" />
+        <item itemvalue="JUnit.UserMapperTest.getAllUser" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +217,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@357d0b76" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@2d724b86" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -202,6 +237,8 @@
       <workItem from="1583568041563" duration="12524000" />
       <workItem from="1584281690092" duration="4472000" />
       <workItem from="1584288612131" duration="256000" />
+      <workItem from="1584329195180" duration="24389000" />
+      <workItem from="1584427771710" duration="7695000" />
     </task>
     <servers />
   </component>
@@ -209,10 +246,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="229" y="196" key="#Project_Structure" timestamp="1584283138109">
+    <state x="229" y="196" key="#Project_Structure" timestamp="1584428809004">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="229" y="196" key="#Project_Structure/0.0.1504.963@0.0.1504.963" timestamp="1584283138109" />
+    <state x="229" y="196" key="#Project_Structure/0.0.1504.963@0.0.1504.963" timestamp="1584428809004" />
     <state x="618" y="166" key="#SQL_Dialects" timestamp="1584283243845">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -229,77 +266,105 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="340" y="169" key="#UserDaoTest_(1)/0.0.1504.963@0.0.1504.963" timestamp="1583565140704" />
-    <state x="290" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584264607924">
+    <state x="290" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584329810806">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="290" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1584264607924" />
+    <state x="290" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1584329810806" />
     <state x="879" y="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583558917290">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="879" y="421" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1583558917290" />
-    <state x="763" y="376" key="#com.intellij.ide.util.MemberChooser" timestamp="1583569978455">
+    <state x="763" y="350" key="#com.intellij.ide.util.MemberChooser" timestamp="1584417836544">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="763" y="376" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1583569978455" />
+    <state x="763" y="350" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1584417836544" />
+    <state x="780" y="451" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584425213453">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="780" y="451" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1504.963@0.0.1504.963" timestamp="1584425213453" />
     <state x="209" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584265490899">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="209" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1504.963@0.0.1504.963" timestamp="1584265490899" />
+    <state x="727" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584430673926">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="727" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1504.963@0.0.1504.963" timestamp="1584430673926" />
     <state x="806" y="262" key="FileChooserDialogImpl" timestamp="1584282162659">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="806" y="262" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1584282162659" />
-    <state width="1076" height="417" key="GridCell.Tab.0.bottom" timestamp="1584287413751">
+    <state width="1162" height="243" key="GridCell.Tab.0.bottom" timestamp="1584436534787">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1076" height="417" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1584287413751" />
-    <state width="1076" height="417" key="GridCell.Tab.0.center" timestamp="1584287413750">
+    <state width="1162" height="243" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1584436534787" />
+    <state width="1162" height="243" key="GridCell.Tab.0.center" timestamp="1584436534786">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1076" height="417" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1584287413750" />
-    <state width="1076" height="417" key="GridCell.Tab.0.left" timestamp="1584287413749">
+    <state width="1162" height="243" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1584436534786" />
+    <state width="1162" height="243" key="GridCell.Tab.0.left" timestamp="1584436534786">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1076" height="417" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1584287413749" />
-    <state width="1076" height="417" key="GridCell.Tab.0.right" timestamp="1584287413750">
+    <state width="1162" height="243" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1584436534786" />
+    <state width="1162" height="243" key="GridCell.Tab.0.right" timestamp="1584436534786">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1076" height="417" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1584287413750" />
-    <state width="1461" height="306" key="GridCell.Tab.1.bottom" timestamp="1584261850828">
+    <state width="1162" height="243" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1584436534786" />
+    <state width="1076" height="325" key="GridCell.Tab.1.bottom" timestamp="1584425332256">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="306" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1584261850828" />
-    <state width="1461" height="306" key="GridCell.Tab.1.center" timestamp="1584261850828">
+    <state width="1076" height="325" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1584425332256" />
+    <state width="1076" height="325" key="GridCell.Tab.1.center" timestamp="1584425332256">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="306" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1584261850828" />
-    <state width="1461" height="306" key="GridCell.Tab.1.left" timestamp="1584261850828">
+    <state width="1076" height="325" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1584425332256" />
+    <state width="1076" height="325" key="GridCell.Tab.1.left" timestamp="1584425332256">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="306" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1584261850828" />
-    <state width="1461" height="306" key="GridCell.Tab.1.right" timestamp="1584261850828">
+    <state width="1076" height="325" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1584425332256" />
+    <state width="1076" height="325" key="GridCell.Tab.1.right" timestamp="1584425332256">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="306" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1584261850828" />
-    <state x="119" y="119" key="SettingsEditor" timestamp="1584264795103">
+    <state width="1076" height="325" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1584425332256" />
+    <state x="295" y="122" key="SettingsEditor" timestamp="1584427722851">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="119" y="119" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1584264795103" />
+    <state x="295" y="122" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1584427722851" />
     <state x="629" y="234" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1583493082773">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="629" y="234" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1504.963@0.0.1504.963" timestamp="1583493082773" />
-    <state x="449" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1584288636201">
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1584427814533">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="449" y="310" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1584288636201" />
-    <state x="140" y="186" key="new project wizard" timestamp="1584282467363">
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1584427814533" />
+    <state x="140" y="186" key="new project wizard" timestamp="1584428736227">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="140" y="186" key="new project wizard/0.0.1504.963@0.0.1504.963" timestamp="1584282467363" />
+    <state x="140" y="186" key="new project wizard/0.0.1504.963@0.0.1504.963" timestamp="1584428736227" />
     <state x="310" y="233" key="run.anything.popup" timestamp="1584260705589">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="310" y="233" key="run.anything.popup/0.0.1504.963@0.0.1504.963" timestamp="1584260705589" />
+    <state x="561" y="291" width="672" height="678" key="search.everywhere.popup" timestamp="1584433870369">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="561" y="291" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1584433870369" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-04/src/test/java/com/kang/dao/UserMapperTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((SimpleExecutor)((CachingExecutor)((DefaultSqlSession)sqlSession).executor).delegate).transaction" custom="org.apache.ibatis.executor.SimpleExecutor,org.apache.ibatis.executor.CachingExecutor,org.apache.ibatis.session.defaults.DefaultSqlSession" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
